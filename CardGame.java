@@ -1,4 +1,4 @@
-package cardGame; hello there
+package cardGame;
 
 import java.io.File;
 import java.io.FileNotFoundException;
