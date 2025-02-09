@@ -1,4 +1,4 @@
-package cardGame; square frogs
+package cardGame;
 
 import java.io.File;
 import java.io.FileNotFoundException;
